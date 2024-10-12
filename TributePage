@@ -1,0 +1,144 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title">Tribute to the Women of USA Elite Gymnstics Team</h1>
+      <p>The ones who brought medals back to the country</p>
+   <figure id="img-div">
+        <a href="https://ibb.co/4FWWsmD"><img id="image" src="https://i.ibb.co/mRJJvDY/USA-Gymnastics-logo-svg.png" "
+          alt="Representation of Elite USA Women's Gymnastics "/></a>
+        <figcaption id="img-caption">
+          USA Gymnastics Logo
+        </figcaption>
+      </figure>
+      <section id="tribute-info">
+             <h3 id="headline">List of Women Medalists Who Brought Home Medals to USA:</h3>
+        <ul>
+<li>Marian Barone</li>
+<li>Mohini Bhardwaj</li>
+<li>Pam Bileck</li>
+<li>Simone Biles</li>
+<li>Amanda Borden</li>
+<li>Wendy Bruce</li>
+<li>Jade Carey</li>
+<li>Kolleen Casey</li>
+<li>Kimberly Chace</li>
+<li>Jordan Chiles</li>
+<li>Amy Chow</li>
+<li>Wendy Cluff</li>
+<li>Kathy Corrigan</li>
+<li>Jamie Dantzscher</li>
+<li>Dominique Dawes</li>
+<li>Dorothy Dalton</li>
+<li>Gabby Douglas</li>
+<li>Michelle Dusserre</li>
+<li>Meta Elste-Neumann</li>
+<li>Carrie Englert</li>
+<li>Doris Fuchs</li>
+<li>Kelly Garrison</li>
+<li>Kathy Gleason</li>
+<li>Muriel Grossfeld</li>
+<li>Ruth Grulkowski</li>
+<li>Annia Hatch</li>
+<li>Laurie Hernandez</li>
+<li>Marie Hoesly</li>
+<li>Kathy Howard</li>
+<li>Judy Howe</li>
+<li>Terin Humphrey</li>
+<li>Brandy Johnson</li>
+<li>Kathy Johnson</li>
+<li>Shawn Johnson</li>
+<li>Doris Kirkman</li>
+<li>Jackie Klein</li>
+<li>Madison Kocian</li>
+<li>Courtney Kupets</li>
+<li>Sunisa Lee</li>
+<li>Nastia Liukin</li>
+<li>Kristen Maloney</li>
+<li>Melissa Marlowe</li>
+<li>McKayla Maroney</li>
+<li>Betty-Jean Maycock</li>
+<li>Grace McCallum</li>
+<li>Dorothy McClements</li>
+<li>Courtney McCool</li>
+<li>Julianne McNamara</li>
+<li>Chellsie Memmel</li>
+<li>Linda Metheny</li>
+<li>Shannon Miller</li>
+<li>Phoebe Mills</li>
+<li>Dominique Moceanu</li>
+<li>Theresa Montefusco</li>
+<li>Joan Moore</li>
+<li>Colleen Mulvihill</li>
+<li>Betty Okino</li>
+<li>Carly Patterson</li>
+<li>Samantha Peszek</li>
+<li>Jaycie Phelps</li>
+<li>Roxanne Pierce</li>
+<li>Joyce Racek</li>
+<li>Aly Raisman</li>
+<li>Elise Ray</li>
+<li>Mary Lou Retton</li>
+<li>Sharon Richardson</li>
+<li>Cathy Rigby</li>
+<li>Hezly Rivera</li>
+<li>Kyla Ross</li>
+<li>Sandra Ruddick</li>
+<li>Alicia Sacramone</li>
+<li>Clara Schroth</li>
+<li>Tasha Schwikert</li>
+<li>MyKayla Skinner</li>
+<li>Bridget Sloan</li>
+<li>Gail Sontgerath</li>
+<li>Janie Speaks</li>
+<li>Hope Spivey</li>
+<li>Chelle Stack</li>
+<li>Kerri Strug</li>
+<li>Tracee Talavera</li>
+<li>Joyce Tanac</li>
+<li>Nancy Thies</li>
+<li>Ruth Topalian</li>
+<li>Marie Walther</li>
+<li>Jordyn Wieber</li>
+<li>Debra Willcox</li>
+<li>Leslie Wolfsberger</li>
+<li>Kim Zmeskal</li>
+        </ul>
+       
+        <h3>
+          For more information about USA Women's Gymnastics and their medalists, here is the link to their 
+          <a
+            id="tribute-link"
+            href="https://en.wikipedia.org/wiki/List_of_Olympic_female_artistic_gymnasts_for_the_United_States"
+            target="_blank"
+            >Wikipedia entry</a
+          >.
+        </h3>
+      </section>
+    </main>
+  </body>
+</html>   
+
+/* styles.css */
+
+h1, p, figcaption {
+  font-size: 50px;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 15px;
+}
+
+#image {
+  max-width: 100%
+}
+
+img {
+  display: block;
+}
